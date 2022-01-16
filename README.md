@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## Some cool links
 
-My website: https://hanna-frances.github.io/
-LinkedIn: https://www.linkedin.com/in/hanna-frances-b-9a38491b5/
-Pastebin: https://pastebin.com/u/wavy2022
+My website: https://hanna-frances.github.io/  
+LinkedIn: https://www.linkedin.com/in/hanna-frances-b-9a38491b5/  
+Pastebin: https://pastebin.com/u/wavy2022  
