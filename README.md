@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Some cool links
+
+My website: https://hanna-frances.github.io/
+LinkedIn: https://www.linkedin.com/in/hanna-frances-b-9a38491b5/
+Pastebin: https://pastebin.com/u/wavy2022
