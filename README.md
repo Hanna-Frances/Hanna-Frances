@@ -4,7 +4,7 @@
 
  
   
-- 🌱 I’m currently learning **SCSS, UI design**  
+- 🌱 I’m currently learning **SCSS, UI design, UX writing and Content Design!**  
   
 - 👨‍💻 All of my projects are available at [https://hanna-frances.github.io/](https://hanna-frances.github.io/)  
   
