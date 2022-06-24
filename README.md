@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanna</h1>  
-<h3 align="center">A second year Ryerson student studying Computer Science!</h3>  
+<h3 align="center">A third year Toronto Metropolitan (previously Ryerson) student studying Computer Science!</h3>  
   
 
  
